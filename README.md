@@ -82,6 +82,8 @@ class CrossEntropyLoss(_WeightedLoss):
     This is particularly useful when you have an unbalanced training set.
     
 c. accuracy function caculates the error according to the differnce between the predicted y and true y:
+
+
         def categorical_accuracy_test(preds, y):
             top_pred = preds.argmax(1, keepdim = True)
             correct = (1 - torch.abs((top_pred - y.view_as(top_pred)))/10).sum()
