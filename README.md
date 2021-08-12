@@ -16,10 +16,10 @@ for automaton
 ![image](https://user-images.githubusercontent.com/86918539/129101620-9ec5180f-3807-4cd0-8fb1-16ce44d83409.png)
 
 
-| n_samples        | RNN| Alergia|train_files|
-| ------------- |:-------------:| -----:|
-| 100      | 68.63%| 68.63% |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat|
-| 2000      | 100.00% |   76.47%|https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat|
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 68.63%         | 68.63%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat  |
+| 2000         | 100.00%        | 76.47%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat |
 
 
 for automaton
@@ -28,10 +28,10 @@ for automaton
 
 # (a+b)*abb
 
-| n_samples        | RNN| Alergia|train_files|
-| ------------- |:-------------:| -----:|
-| 100      | 64.52%| 48.39% |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat|
-| 2000      | 100.00% |   80.65%|https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat|
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 64.52%         | 48.39%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat  |
+| 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat |
 
 for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971302/blackbox.pdf)
@@ -39,8 +39,9 @@ for automaton
 
 # ϵ|a*|b*a|(a|b)*abb(a|b)*abb
 
-| n_samples        | RNN| Alergia|train_files|
-| ------------- |:-------------:| -----:|
-| 100      | 91.00%| 90.0% |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat|
-| 2000      | 100.00% ||https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat|
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 91.00%         | 90.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat  |
+| 2000         | 100.00%        |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
+
 
