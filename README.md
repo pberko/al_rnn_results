@@ -50,9 +50,12 @@ for automaton
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 RNN
 
-I used https://github.com/bentrevett/pytorch-sentiment-analysis repository as reference:
+The nn is written in Pytorch
+(ref I used https://github.com/bentrevett/pytorch-sentiment-analysis)
 
 a. RNN is LSTM with the parameters:
         EMBEDDING_DIM = 100
