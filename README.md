@@ -59,10 +59,15 @@ The nn is written in Pytorch
 
 a. RNN is LSTM with the parameters:
         EMBEDDING_DIM = 100
+        
         HIDDEN_DIM = 256
+        
         OUTPUT_DIM = len(LABEL.vocab)
+        
         N_LAYERS = 2
+        
         BIDIRECTIONAL = True
+        
         DROPOUT = 0.5
         
 b. Loss function is Cross entropy loss (since it's multi class)
