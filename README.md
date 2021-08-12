@@ -6,15 +6,10 @@ for automaton
 ![image](https://user-images.githubusercontent.com/86918539/129101548-52abc69c-3461-4fae-a3d3-23baff6ca877.png)
 
 
-| n_samples        | RNN| Alergia|train_files|
-| ------------- |:-------------:| -----:|
-| 100      | 100.00% | 64.52% |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat|
-| 2000      | 100.00% |   80.65%|https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat|
-
-| n_samples    | RNN            | Alergia       |train_files                                                            |
-| :---         |     :---:      |       :---:   | ---:
-| 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat|
-| 2000         | 100.00%       | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat|
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
+| 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
 
 for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971064/blackbox.pdf)
