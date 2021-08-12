@@ -49,3 +49,39 @@ for automaton
 | 2000         | 100.00%        |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
 
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+RNN
+
+I used https://github.com/bentrevett/pytorch-sentiment-analysis repository as reference:
+
+a. RNN is LSTM with the parameters:
+        EMBEDDING_DIM = 100
+        HIDDEN_DIM = 256
+        OUTPUT_DIM = len(LABEL.vocab)
+        N_LAYERS = 2
+        BIDIRECTIONAL = True
+        DROPOUT = 0.5
+        
+b. Loss function is Cross entropy loss (since it's multi class)
+
+from pytorch doumentation:
+class CrossEntropyLoss(_WeightedLoss):
+    r"""This criterion combines :class:`~torch.nn.LogSoftmax` and :class:`~torch.nn.NLLLoss` in one single class.
+
+    It is useful when training a classification problem with `C` classes.
+    If provided, the optional argument :attr:`weight` should be a 1D `Tensor`
+    assigning weight to each of the classes.
+    This is particularly useful when you have an unbalanced training set.
+    
+c. accuracy function caculates the error according to the differnce between the predicted y and true y:
+        def categorical_accuracy_test(preds, y):
+            top_pred = preds.argmax(1, keepdim = True)
+            correct = (1 - torch.abs((top_pred - y.view_as(top_pred)))/10).sum()
+            acc = correct.float() / y.shape[0]
+            return acc
+ 
+d. multiclass predictiom:
+  I chose to divide the train set to 10 classes : 0.0, 0.1 ... 1.0
+  The nn suppose to predict the true class.
+
+e. 
