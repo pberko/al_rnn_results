@@ -10,6 +10,8 @@ for automaton
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
+
+
 (the train files structure is: 1) first row is samples number and size of alephbet, the next rows are output. path-len, path )
 
 
