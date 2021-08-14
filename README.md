@@ -46,7 +46,7 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 91.00%         | 90.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat  |
-| 2000         | 100.00%        |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
+| 2000         | 100.00%        | 93.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
