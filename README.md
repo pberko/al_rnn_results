@@ -1,6 +1,20 @@
 # al_rnn_results
 
 for automaton
+[blackbox.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut108/pdf/blackbox.pdf)
+
+[specification.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut108/pdf/spec.pdf)
+
+
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 54.84%         | 63.2%         |https://github.com/pberko/al_rnn_results/blob/main/tracesaut108_100.dat  |
+| 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut108_2000.dat |
+
+
+*the train files structure is: first row is samples number and size of alephbet, the next rows are output. path-len, path *
+
+for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971032/blackbox.pdf)
 
 ![image](https://user-images.githubusercontent.com/86918539/129101548-52abc69c-3461-4fae-a3d3-23baff6ca877.png)
@@ -10,9 +24,6 @@ for automaton
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
-
-
-*the train files structure is: first row is samples number and size of alephbet, the next rows are output. path-len, path *
 
 
 for automaton
