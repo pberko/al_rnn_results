@@ -4,11 +4,12 @@ for automaton
 
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut108/pdf/blackbox.pdf)
 
-![image](https://user-images.githubusercontent.com/86918539/130485737-a0d9a3cd-b17d-4a97-81ae-0b554f7d2925.png)
+![image](https://user-images.githubusercontent.com/86918539/130486002-38971f9a-3e7b-4e86-927e-be8d953fca7b.png)
 
 [specification.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut108/pdf/spec.pdf)
 
-![image](https://user-images.githubusercontent.com/86918539/130485689-ccfb259b-7699-4944-8e5e-04c31388ce90.png)
+![image](https://user-images.githubusercontent.com/86918539/130486058-771c998f-8db1-404f-9ae7-5978b230b03d.png)
+
 
 
 | n_samples    | RNN            | Alergia       |train_files                                                              |
