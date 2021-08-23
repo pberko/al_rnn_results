@@ -17,7 +17,9 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 54.84%         | 63.2%         |https://github.com/pberko/al_rnn_results/blob/main/tracesaut108_100.dat  |
+|              | 7s             | 37s           |                                                                         |
 | 2000         | 91.29%         | 67.73%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut108_2000.dat |
+|              | 22s            | 1m            |                                                                         |
 
 
 *the train files structure is: first row is samples number and size of alephbet, the next rows are output. path-len, path *
@@ -40,7 +42,9 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 53.23%         | 65.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut109_100.dat  |
+|              | 3s             | 1.2m          |                                                                         |
 | 2000         | 97.10%         | 71.36%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut109_2000.dat |
+|              | 22s            | 1m            |                                                                         |
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,7 +64,9 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 36.45%         | 52.19%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut110_100.dat  |
+|              | 3s             | 5.4m          |                                                                         |
 | 2000         | 72.90%         | 75.04%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut110_2000.dat |
+|              | 23s            | 1m            |                                                                         |
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -79,7 +85,9 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 40.65%         | 48.58%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut111_100.dat  |
+|              | 4s             | 5.3m          |                                                                         |
 | 2000         | 74.84%         | 77.49%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut111_2000.dat |
+|              | 23s            | 16s           |                                                                         |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
