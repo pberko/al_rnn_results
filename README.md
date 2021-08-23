@@ -20,6 +20,28 @@ for automaton
 
 *the train files structure is: first row is samples number and size of alephbet, the next rows are output. path-len, path *
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+for automaton
+
+[blackbox.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut109/pdf/blackbox.pdf)
+
+![image](https://user-images.githubusercontent.com/86918539/130486497-0150d772-ce52-4858-90de-27108907e86e.png)
+
+[specification.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut109/pdf/spec.pdf)
+
+![image](https://user-images.githubusercontent.com/86918539/130486463-f377b5f0-7fdd-4048-b8cb-0d218341974b.png)
+
+
+
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 53.23%         | 65.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut109_100.dat  |
+| 2000         | 97.10%         | 71.36%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut109_2000.dat |
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971032/blackbox.pdf)
 
@@ -30,6 +52,9 @@ for automaton
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
+
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 
 for automaton
@@ -43,6 +68,9 @@ for automaton
 | 2000         | 100.00%        | 76.47%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat |
 
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+
 for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971077/blackbox.pdf)
 ![image](https://user-images.githubusercontent.com/86918539/129101661-ded147eb-9ce5-4de9-acda-4b0c8e153222.png)
@@ -53,6 +81,8 @@ for automaton
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 64.52%         | 48.39%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat  |
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat |
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971302/blackbox.pdf)
