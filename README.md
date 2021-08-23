@@ -1,5 +1,7 @@
 # al_rnn_results
 
+safety automata
+
 for automaton
 
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut108/pdf/blackbox.pdf)
@@ -41,6 +43,49 @@ for automaton
 | 2000         | 97.10%         | 71.36%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut109_2000.dat |
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
+
+for automaton
+
+[blackbox.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut110/pdf/blackbox.pdf)
+
+![image](https://user-images.githubusercontent.com/86918539/130486969-4414de09-80dd-4dbf-936e-d42048ac86a2.png)
+
+[specification.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut110/pdf/spec.pdf)
+
+![image](https://user-images.githubusercontent.com/86918539/130487024-af44fddd-18d3-463e-903a-df38dfd50984.png)
+
+
+
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 36.45%         | 52.19%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut110_100.dat  |
+| 2000         | 72.90%         | 75.04%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut110_2000.dat |
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+for automaton
+
+[blackbox.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut111/pdf/blackbox.pdf)
+
+![image](https://user-images.githubusercontent.com/86918539/130487293-467c8edd-510b-4637-a8c8-ac1ab933d3fb.png)
+
+[specification.pdf](https://github.com/roiDaniela/run_time_verification/blob/master/data/aut111/pdf/spec.pdf)
+
+![image](https://user-images.githubusercontent.com/86918539/130487352-d145526a-b8f0-434c-8201-14364eec5706.png)
+
+
+
+| n_samples    | RNN            | Alergia       |train_files                                                              |
+| :---         |     :---:      |       :---:   |                                                                  ---:   |
+| 100          | 40.65%         | 48.58%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut111_100.dat  |
+| 2000         | 74.84%         | 77.49%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut111_2000.dat |
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+non safety automata
 
 for automaton
 [blackbox.pdf](https://github.com/roiDaniela/run_time_verification/files/6971032/blackbox.pdf)
