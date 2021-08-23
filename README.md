@@ -104,8 +104,10 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
+| len x 5      | 97.35%         | 55.63%        |                                                                         |
 |              | 4s             | 2s            |                                                                         |
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
+| len x 5      | 100.00%        | 62.25%              |                                                                         |
 |              | 34.8s          | 8s            |                                                                         |
 
 
@@ -120,8 +122,10 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 68.63%         | 68.63%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat  |
+| len x 5      | 68.16%         | 70.52%        |                                                                         |
 |              | 4.35s          | 2s            |                                                                         |
 | 2000         | 100.00%        | 76.47%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat |
+| len x 5      | 100.00%        | 69.72%        |                                                                         |
 |              | 29.24s         | 4s            |                                                                         |
 
 
@@ -137,9 +141,12 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 64.52%         | 48.39%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat  |
+| len x 5      | 60.26%         | 55.63%        |                                                                         |
 |              | 4.68s          | 1s            |                                                                         |
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat |
+| len x 5      | 100.00%        | 62.25%        |                                                                         |
 |              | 34.27s         | 7.26m         |                                                                         |
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -152,8 +159,10 @@ for automaton
 | n_samples    | RNN            | Alergia       |train_files                                                              |
 | :---         |     :---:      |       :---:   |                                                                  ---:   |
 | 100          | 91.00%         | 90.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat  |
+| len x 5      | 83.00%         | 83.00%        |                                                                         |
 |              | 6s             | 2.35m         |                                                                         |
 | 2000         | 100.00%        | 93.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
+| len x 5      | 100.00%        | 84.00%        |                                                                         |
 |              | 1m             |               |                                                                         |
 
 
