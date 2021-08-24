@@ -19,6 +19,9 @@ for automaton
 | 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
 | len x 5      | 100.00%        | 62.25%        |                                                                         |
 |              | 34.8s          | 8s            |                                                                         |
+| 5000         | 100.00%        | 83.87%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_5000.dat |
+| len x 5      | 100.00%        | 60.26%        |                                                                         |
+|              | 34.8s          | 18s           |                                                                         |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
