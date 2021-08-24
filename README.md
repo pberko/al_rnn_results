@@ -23,6 +23,9 @@ for automaton
 | len x 5      | 100.00%        | 60.26%        |                                                                         |
 |              | 1.4m           | 18s           |                                                                         |
 
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat.ff.final.dot.pdf
+
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat.ff.final.dot.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,6 +44,9 @@ for automaton
 | len x 5      | 100.00%        | 69.72%        |                                                                         |
 |              | 29.24s         | 4s            |                                                                         |
 
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat.ff.final.dot.pdf
+
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat.ff.final.dot.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,6 +66,9 @@ for automaton
 | len x 5      | 100.00%        | 62.25%        |                                                                         |
 |              | 34.27s         | 7.26m         |                                                                         |
 
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat.ff.final.dot.pdf
+
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat.ff.final.dot.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,6 +86,11 @@ for automaton
 | 2000         | 100.00%        | 93.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
 | len x 5      | 100.00%        | 84.00%        |                                                                         |
 |              | 1m             | 9.8h          |                                                                         |
+
+
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat.ff.final.dot.pdf
+
+https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat.ff.final.dot.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
