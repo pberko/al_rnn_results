@@ -27,7 +27,7 @@ https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat.ff.final
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat.ff.final.dot.pdf
 
-
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121260-2ad54224-e214-4749-b5a9-2e4c3dd84743.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -51,7 +51,7 @@ https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat.ff.final
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat.ff.final.dot.pdf
 
-
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121286-f2bd2537-9e38-4ab0-a410-bf5388ce9572.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -76,6 +76,7 @@ https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat.ff.final
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat.ff.final.dot.pdf
 
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121329-baef715b-904f-433d-9228-b5a6cfe903ea.png)
 
 
@@ -101,7 +102,7 @@ https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat.ff.final
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat.ff.final.dot.pdf
 
-
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121356-a732af78-4ed7-462e-8fb6-688b9dd2c0d2.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -128,6 +129,7 @@ for automaton
 | 2000         | 91.29%         | 67.73%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut108_2000.dat |
 |              | 22s            | 1m            |                                                                         |
 
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121399-e0d1f12e-2fe9-46a2-a806-795ffb892e8d.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -153,6 +155,7 @@ for automaton
 |              | 22s            | 1m            |                                                                         |
 
 
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121435-1b3d175e-24ce-42c0-8170-e38e7838f2b9.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -178,6 +181,7 @@ for automaton
 |              | 23s            | 1m            |                                                                         |
 
 
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121468-e8eb10dd-2db6-4a15-b78a-03306dadeb84.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -202,6 +206,7 @@ for automaton
 |              | 23s            | 16s           |                                                                         |
 
 
+HEATMAP for rnn (2000 samples)
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121502-bd806a0a-f147-4ee7-958b-21dae7fa4025.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
