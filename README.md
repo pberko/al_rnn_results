@@ -31,6 +31,10 @@ HEATMAP for rnn (2000 samples)
 
 ![heatmap](https://user-images.githubusercontent.com/86918539/131121260-2ad54224-e214-4749-b5a9-2e4c3dd84743.png)
 
+
+xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
+
+https://docs.google.com/spreadsheets/d/123UPGwo_m9JGUNC2PEeVIMZQUdnaqu0Oers-WtlhTew/edit?usp=sharing
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
