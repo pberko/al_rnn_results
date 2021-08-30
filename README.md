@@ -35,6 +35,11 @@ HEATMAP for rnn (2000 samples)
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
 https://docs.google.com/spreadsheets/d/123UPGwo_m9JGUNC2PEeVIMZQUdnaqu0Oers-WtlhTew/edit?usp=sharing
+
+xls file - alergia: values are path length in alergia graph
+
+https://docs.google.com/spreadsheets/d/1fEgc9t4e5TaRPQdKh_7mMmPduvI6EpvpC28SgDLEkUY/edit?usp=sharing
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -63,6 +68,12 @@ HEATMAP for rnn (2000 samples)
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
 https://docs.google.com/spreadsheets/d/1L5VXxH86Lpw69-I1ByWy1O-4Mf9WZBfy3aj_Q9p8cgw/edit?usp=sharing
+
+
+xls file - alergia: values are path length in alergia graph
+
+https://docs.google.com/spreadsheets/d/1zXrBxi0-NmJ8mh2TuE4BqN5e1IJuXDr2Hhfm9TkTr0o/edit?usp=sharing
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -93,6 +104,12 @@ HEATMAP for rnn (2000 samples)
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
 https://docs.google.com/spreadsheets/d/1VX1st_CWvxj7EWbt9VtJ3mDQa0aSky-q8x7sjcJp0U8/edit?usp=sharing
+
+
+xls file - alergia: values are path length in alergia graph
+
+https://docs.google.com/spreadsheets/d/13ylblGndrQcNgo215Fs_UhLTlqSUPy_2OB19dOn9ul4/edit?usp=sharing
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
