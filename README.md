@@ -34,7 +34,7 @@ HEATMAP for rnn (2000 samples)
 
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
-https://docs.google.com/spreadsheets/d/123UPGwo_m9JGUNC2PEeVIMZQUdnaqu0Oers-WtlhTew/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/14pIPymjSUhsbE9W4aEZr1oJjyDuhv8J5tOsHEhbg62w/edit?usp=sharing
 
 xls file - alergia: values are path length in alergia graph
 
