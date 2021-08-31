@@ -110,7 +110,7 @@ HEATMAP for rnn (2000 samples)
 
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
-https://docs.google.com/spreadsheets/d/1VX1st_CWvxj7EWbt9VtJ3mDQa0aSky-q8x7sjcJp0U8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/11uQ3fcZrbL7-NHil2bekm7xkl8cA48mfRu3sXZOgVj0/edit?usp=sharing
 
 
 divide the paths to clusters - states with Kmeans using distances:
