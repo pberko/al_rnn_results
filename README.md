@@ -36,6 +36,10 @@ xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are s
 
 https://docs.google.com/spreadsheets/d/14pIPymjSUhsbE9W4aEZr1oJjyDuhv8J5tOsHEhbg62w/edit?usp=sharing
 
+divide the paths to clusters - states with Kmeans using distances:
+![image](https://user-images.githubusercontent.com/86918539/131515883-a779ebcb-88a8-4e12-a41b-0eb58b6a2f02.png)
+
+
 xls file - alergia: values are path length in alergia graph
 
 https://docs.google.com/spreadsheets/d/1fEgc9t4e5TaRPQdKh_7mMmPduvI6EpvpC28SgDLEkUY/edit?usp=sharing
@@ -68,6 +72,9 @@ HEATMAP for rnn (2000 samples)
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
 https://docs.google.com/spreadsheets/d/1L5VXxH86Lpw69-I1ByWy1O-4Mf9WZBfy3aj_Q9p8cgw/edit?usp=sharing
+
+divide the paths to clusters - states with Kmeans using distances:
+![image](https://user-images.githubusercontent.com/86918539/131516140-e0203330-43b2-4d26-ad87-50c9b73c7e13.png)
 
 
 xls file - alergia: values are path length in alergia graph
@@ -105,6 +112,9 @@ xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are s
 
 https://docs.google.com/spreadsheets/d/1VX1st_CWvxj7EWbt9VtJ3mDQa0aSky-q8x7sjcJp0U8/edit?usp=sharing
 
+
+divide the paths to clusters - states with Kmeans using distances:
+![image](https://user-images.githubusercontent.com/86918539/131516251-dcde18a7-c8e7-4908-898d-0c30b390d108.png)
 
 xls file - alergia: values are path length in alergia graph
 
