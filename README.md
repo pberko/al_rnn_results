@@ -36,6 +36,9 @@ xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are s
 
 https://docs.google.com/spreadsheets/d/14pIPymjSUhsbE9W4aEZr1oJjyDuhv8J5tOsHEhbg62w/edit?usp=sharing
 
+when using all hidden layers:
+https://docs.google.com/spreadsheets/d/1H3IQ-oGA6voaClurlHi0i3Y5fnDgNVeDVorLyVRRVEU/edit?usp=sharing
+
 divide the paths to clusters - states with Kmeans using distances:
 ![image](https://user-images.githubusercontent.com/86918539/131515883-a779ebcb-88a8-4e12-a41b-0eb58b6a2f02.png)
 
@@ -72,6 +75,9 @@ HEATMAP for rnn (2000 samples)
 xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are states
 
 https://docs.google.com/spreadsheets/d/1L5VXxH86Lpw69-I1ByWy1O-4Mf9WZBfy3aj_Q9p8cgw/edit?usp=sharing
+
+when using all hidden layers:
+https://docs.google.com/spreadsheets/d/1uNYfhshW5FqtsiLGN6iSW_8BbBt-svzk5_3-lwTfNfY/edit?usp=sharing
 
 divide the paths to clusters - states with Kmeans using distances:
 ![image](https://user-images.githubusercontent.com/86918539/131516140-e0203330-43b2-4d26-ad87-50c9b73c7e13.png)
@@ -112,6 +118,8 @@ xls file: values are rnn distance (rnn Tensors euclidean distance) and x/y are s
 
 https://docs.google.com/spreadsheets/d/1KbJ0giggu_DuRWy3Gsva-plMp30cMoqTgwSGt6hM8Sc/edit?usp=sharing
 
+when using all hidden layers:
+https://docs.google.com/spreadsheets/d/1pc7QO67boBpQzlp93AOoQz1POZrm_3VLUU-ppwYkVLk/edit?usp=sharing
 
 divide the paths to clusters - states with Kmeans using distances:
 ![image](https://user-images.githubusercontent.com/86918539/131516251-dcde18a7-c8e7-4908-898d-0c30b390d108.png)
