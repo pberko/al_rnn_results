@@ -11,17 +11,17 @@ for automaton
 ![image](https://user-images.githubusercontent.com/86918539/129101548-52abc69c-3461-4fae-a3d3-23baff6ca877.png)
 
 
-| n_samples    | RNN            | Alergia       |train_files                                                              |
-| :---         |     :---:      |       :---:   |                                                                  ---:   |
-| 100          | 100.00%        | 64.52%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
-| len x 5      | 97.35%         | 55.63%        |                                                                         |
-|              | 4s             | 2s            |                                                                         |
-| 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
-| len x 5      | 100.00%        | 62.25%        |                                                                         |
-|              | 34.8s          | 8s            |                                                                         |
-| 5000         | 100.00%        | 83.87%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_5000.dat |
-| len x 5      | 100.00%        | 60.26%        |                                                                         |
-|              | 1.4m           | 18s           |                                                                         |
+| n_samples    | RNN            | Alergia     | EDSM          |train_files                                                              |
+| :---         |     :---:      |       :---: |       :---:   |                                                                  ---:   |
+| 100          | 100.00%        | 64.52%      |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat  |
+| len x 5      | 97.35%         | 55.63%      |               |                                                                         |
+|              | 4s             | 2s          |               |                                                                         |
+| 2000         | 100.00%        | 80.65%      | 100.0%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_2000.dat |
+| len x 5      | 100.00%        | 62.25%      | 100.0%        |                                                                         |
+|              | 34.8s          | 8s          | 0.1s          |                                                                         |
+| 5000         | 100.00%        | 83.87%      |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_5000.dat |
+| len x 5      | 100.00%        | 60.26%      |               |                                                                         |
+|              | 1.4m           | 18s         |               |                                                                         |
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut112_100.dat.ff.final.dot.pdf
 
@@ -55,14 +55,14 @@ for automaton
 ![image](https://user-images.githubusercontent.com/86918539/129101620-9ec5180f-3807-4cd0-8fb1-16ce44d83409.png)
 
 
-| n_samples    | RNN            | Alergia       |train_files                                                              |
-| :---         |     :---:      |       :---:   |                                                                  ---:   |
-| 100          | 68.63%         | 68.63%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat  |
-| len x 5      | 68.16%         | 70.52%        |                                                                         |
-|              | 4.35s          | 2s            |                                                                         |
-| 2000         | 100.00%        | 76.47%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat |
-| len x 5      | 100.00%        | 69.72%        |                                                                         |
-|              | 29.24s         | 4s            |                                                                         |
+| n_samples    | RNN            | Alergia       | EDSM          |train_files                                                              |
+| :---         |     :---:      |       :---:   |       :---:   |                                                                  ---:   |
+| 100          | 68.63%         | 68.63%        |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat  |
+| len x 5      | 68.16%         | 70.52%        |               |                                                                         |
+|              | 4.35s          | 2s            |               |                                                                         |
+| 2000         | 100.00%        | 76.47%        | 100.0%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_2000.dat |
+| len x 5      | 100.00%        | 69.72%        | 100.0%        |                                                                         |
+|              | 29.24s         | 4s            | 0.1s          |                                                                         |
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut113_100.dat.ff.final.dot.pdf
 
@@ -97,14 +97,14 @@ for automaton
 
 # (a+b)*abb
 
-| n_samples    | RNN            | Alergia       |train_files                                                              |
-| :---         |     :---:      |       :---:   |                                                                  ---:   |
-| 100          | 64.52%         | 48.39%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat  |
-| len x 5      | 60.26%         | 55.63%        |                                                                         |
-|              | 4.68s          | 1s            |                                                                         |
-| 2000         | 100.00%        | 80.65%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat |
-| len x 5      | 100.00%        | 62.25%        |                                                                         |
-|              | 34.27s         | 7.26m         |                                                                         |
+| n_samples    | RNN            | Alergia       | EDSM          |train_files                                                              |
+| :---         |     :---:      |       :---:   |       :---:   |                                                                  ---:   |
+| 100          | 64.52%         | 48.39%        |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat  |
+| len x 5      | 60.26%         | 55.63%        |               |                                                                         |
+|              | 4.68s          | 1s            |               |                                                                         |
+| 2000         | 100.00%        | 80.65%        | 100.00%       |https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_2000.dat |
+| len x 5      | 100.00%        | 62.25%        | 100.00%       |                                                                         |
+|              | 34.27s         | 7.26m         | 0.1s          |                                                                         |
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut114_100.dat.ff.final.dot.pdf
 
@@ -137,14 +137,14 @@ for automaton
 
 # ϵ|a*|b*a|(a|b)*abb(a|b)*abb
 
-| n_samples    | RNN            | Alergia       |train_files                                                              |
-| :---         |     :---:      |       :---:   |                                                                  ---:   |
-| 100          | 91.00%         | 90.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat  |
-| len x 5      | 83.00%         | 83.00%        |                                                                         |
-|              | 6s             | 2.35m         |                                                                         |
-| 2000         | 100.00%        | 93.00%        |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
-| len x 5      | 100.00%        | 84.00%        |                                                                         |
-|              | 1m             | 9.8h          |                                                                         |
+| n_samples    | RNN            | Alergia      | EDSM       |train_files                                                              |
+| :---         |     :---:      |       :---:  |       :---:   |                                                                  ---:   |
+| 100          | 91.00%         | 90.00%       |               |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat  |
+| len x 5      | 83.00%         | 83.00%       |               |                                                                         |
+|              | 6s             | 2.35m        |               |                                                                         |
+| 2000         | 100.00%        | 93.00%       | 100.00%       |https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_2000.dat |
+| len x 5      | 100.00%        | 84.00%       | 100.00%       |                                                                         |
+|              | 1m             | 9.8h         | 0.8s          |                                                                         |
 
 
 https://github.com/pberko/al_rnn_results/blob/main/tracesaut115_100.dat.ff.final.dot.pdf
